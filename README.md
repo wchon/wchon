@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen Hon</h1>
 <h3 align="center">A passionate software engineer</h3>
-<img align=“right” alt=“coding” src=“https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wchon&label=Profile%20views&color=0e75b6&style=flat" alt="wchon" /> </p>
 
 - 🔭 I’m currently working on [a music app](https://github.com/wchon/Canton-Music-App)
