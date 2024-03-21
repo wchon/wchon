@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen Hon</h1>
-<h3 align="center">A passionate Embedded/software engineer</h3>
+<h3 align="center">A passionate Embedded/Software engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wchon&label=Profile%20views&color=0e75b6&style=flat" alt="wchon" /> </p>
 
 - 🔭 I’m currently working on<br> 
