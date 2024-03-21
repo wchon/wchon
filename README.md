@@ -2,9 +2,12 @@
 <h3 align="center">A passionate software engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wchon&label=Profile%20views&color=0e75b6&style=flat" alt="wchon" /> </p>
 
-- 🔭 I’m currently working on [a music app](https://github.com/wchon/Canton-Music-App)
+- 🔭 I’m currently working on 
+STM32-based CCTV(Closed-Circuit Television)
+[a music app](https://github.com/wchon/Canton-Music-App)
 
-- 🌱 I’m currently polishing **Java, React**
+
+- 🌱 I’m currently polishing **C/C++, Java, React**
 
 - 📫 How to reach me **wangchau31@gmail.com**
 
