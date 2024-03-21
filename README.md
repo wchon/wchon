@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on<br> 
 STM32-based CCTV(Closed-Circuit Television)<br>
-[a music app](https://github.com/wchon/Canton-Music-App)
+Music App](https://github.com/wchon/Canton-Music-App)
 
 
 - 🌱 I’m currently polishing **C/C++, Java, React**
