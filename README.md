@@ -7,7 +7,7 @@ ESP8266-based IP Camera<br>
 [Music App](https://github.com/wchon/Canton-Music-App)
 
 
-- 🌱 I’m currently polishing **C/C++, Java, React**
+- 🌱 I’m currently polishing **Node.js, C/C++, React**
 
 - 📫 How to reach me **wangchau31@gmail.com**
 
